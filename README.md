@@ -1,7 +1,7 @@
 # conFusion-Angular-SPA
 Angular version of conFusion repository that fetches data from local json-server
 
-First of all, you have to install json-server to your local machine by running following command:
+First of all, you have to install json-server to your local machine by running following command:<br>
   i.  For windows: <h3>npm install json-server</h3>
   ii. For mac or linux: <h3>sudo npm install json-server</h3>
  
